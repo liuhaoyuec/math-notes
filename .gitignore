@@ -1,10 +1,7 @@
 .obsidian/
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/hotkeys.json
-.obsidian/core-plugins.json
-.obsidian/community-plugins.json
 .DS_Store
 Thumbs.db
 categorize.py
 categorize_log.txt
+fix_classification.py
+fix_classification.ps1
